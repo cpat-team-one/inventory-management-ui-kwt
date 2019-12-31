@@ -12,7 +12,7 @@ import { iconCheckmarkSolid } from "carbon-icons";
 import Header from "../pattern-components/Header";
 import "../pattern-components/patterns.scss";
 class StockItemList extends Component {
-    title = 'Sender List';
+    title = 'Sender List, cheese is delicious';
     subtitle = 'This is the current inventory of items';
   
     columns = [
